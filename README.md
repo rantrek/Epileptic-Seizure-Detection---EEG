@@ -4,7 +4,7 @@ Epileptic seizure detection from EEG signals data using machine learning and dee
 
 ## About the Dataset
 
-The dataset can be downloaded from https://archive.ics.uci.edu/ml/datasets/Epileptic+Seizure+Recognition. More information on the dataset
+The dataset can be downloaded from https://www.kaggle.com/datasets/harunshimanto/epileptic-seizure-recognition/data. More information on the dataset
 can also be found at that link. 
 
 ## Objective
