@@ -38,7 +38,7 @@ The code is developed in Python.
 
    - Pandas
    - Matplotlib
-   - Numpy
+   - NumPy
    - Scikit-learn
    - Keras/TensorFlow
  
