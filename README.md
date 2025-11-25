@@ -19,6 +19,7 @@ The code is developed in Python.
 
    - Data Cleaning
    - Data Visualization
+   - Dimension Reductionality
    - Machine Learning
    - Deep Learning   
 
@@ -32,13 +33,15 @@ The code is developed in Python.
    - Adaptive Boosting (Ada Boost)
    - LSTM
    - 1D CNN
- 
+   - Wavelet Transforms
+   - PCA
  
 ## Libraries
 
    - Pandas
    - Matplotlib
    - NumPy
+   - PyWavelets
    - Scikit-learn
    - Keras/TensorFlow
  
